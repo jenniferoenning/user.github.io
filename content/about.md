@@ -1,9 +1,9 @@
 ---
 title: "👩🏻‍💻 About me"
-author: "Jennifer Oenning"
+author: "[Seu nome]"
 date: 2024-09-15T17:36:07+12:00
 
-tags: ["Jennifer Oenning"]
+tags: ["exemple"]
 showToc: true
 TocOpen: false
 draft: false

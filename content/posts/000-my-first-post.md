@@ -1,9 +1,9 @@
 +++
-title = '🌱 My First Post'
+title = '🌱 Meu primeiro post'
 date = 2024-09-16T22:01:58-03:00
 draft = false
 
-author = "Victoria"
+author = "[Seu nome]"
 showToc = true
 TocOpen = false
 hidemeta = false
@@ -23,4 +23,4 @@ UseHugoToc = true
 +++
 
 ## Introduction
-dwaokdwoakdkowakod
+* Conteúdo *

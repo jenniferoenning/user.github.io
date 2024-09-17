@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Victoria
+title: "[Seu nome/ou título]"
 theme: ["PaperMod"]
 
 taxonomies:
@@ -8,20 +8,20 @@ taxonomies:
 
 params:
   homeInfoParams:
-    Title: Hello world, I'm Victoria! 👩🏻‍💻
-    Content: Welcome to my digital space where I document my learnings as a Software Engineer.
+    Title: Hello world, Eu sou a/ou [Seu Nome]! 👩🏻‍💻
+    Content: Bem vindos ao meu blog, onde eu compartilho minha jornada.
   
   socialIcons:
   - name: github
-    url: 'https://github.com/'
+    url: 'https://github.com/[Seu nome]'
   - name: youtube
-    url: 'https://www.youtube.com/'
+    url: 'https://www.youtube.com/[Seu nome]'
   - name: twitter
-    url: 'https://twitter.com/'
+    url: 'https://twitter.com/[Seu nome]'
   - name: instagram
-    url: 'https://www.instagram.com/'
+    url: 'https://www.instagram.com/[Seu nome]'
   - name: other
-    url: 'https://bento.me/'
+    url: 'https://bento.me/[Seu nome]'
 
   assets:
     # disableHLJS: true # to disable highlight.js
