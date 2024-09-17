@@ -6,8 +6,8 @@ Estou muito feliz em compartilhar este conteúdo com a galera, principalmente pa
 
 ## **Recursos**
 
-- **Framework**: HUGO
-- **Tema**: PaperMod
+- **Framework**: [HUGO](https://gohugo.io/) 
+- **Tema**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Funcionalidades**: Layout limpo, responsivo e fácil de personalizar
 
 > [!TIP]
